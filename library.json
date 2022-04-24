@@ -1,0 +1,17 @@
+{
+  "name": "EnRF24",
+  "keywords": "rf, radio, wireless, spi",
+  "description": "The nRF24L01 is a low-cost 2.4GHz ISM transceiver module. It supports a number of channel frequencies in the 2.4GHz band and a range of data rates.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sertac2003/EnRF24.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "atmelsam",
+    "teensy"
+  ]
+}
